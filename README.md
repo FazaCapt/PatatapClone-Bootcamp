@@ -6,3 +6,9 @@
 4. HTTP access control (CORS): https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
 5. Creating Predefined Shapes" http://paperjs.org/tutorials/paths/creating-predefined-shapes/
 6. Keyboard Interaction: http://paperjs.org/tutorials/interaction/keyboard-interaction/
+7. Animation: http://paperjs.org/tutorials/animation/creating-animations/
+
+### Corection:
+
+1. https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/5504456?start=0
+2. Howler.js: https://github.com/goldfire/howler.js/#quick-start
